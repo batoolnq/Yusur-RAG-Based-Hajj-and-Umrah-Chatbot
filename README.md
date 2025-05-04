@@ -71,7 +71,7 @@ Yusur provides personalized, grounded answers with sources from trusted religiou
 ![Arabic Chatbot](Arabic_chatbot.png)
 
 ### English Version
-![English Chatbot](English_chatbot.png)
+![English Chatbot](English_chatbot.jpg)
 
 ## 🧠 Future Work
 - Expand support to additional languages and dialects
