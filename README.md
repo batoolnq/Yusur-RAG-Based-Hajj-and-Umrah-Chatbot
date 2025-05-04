@@ -65,6 +65,12 @@ Yusur provides personalized, grounded answers with sources from trusted religiou
 ---
 
 
-## 📷 Screenshots & Demos
+## 📷 Screenshots
+
+### Arabic Version
+![Arabic Chatbot](Arabic_chatbot.png)
+
+### English Version
+![English Chatbot](English_chatbot.png)
 
 
