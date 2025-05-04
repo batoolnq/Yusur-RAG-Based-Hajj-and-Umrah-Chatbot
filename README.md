@@ -73,4 +73,10 @@ Yusur provides personalized, grounded answers with sources from trusted religiou
 ### English Version
 ![English Chatbot](English_chatbot.png)
 
+## 🧠 Future Work
+- Expand support to additional languages and dialects
+- Integrate voice-based interface for hands-free access
+- Deploy chatbot on real-time platforms such as WhatsApp or web portals
+
+
 
