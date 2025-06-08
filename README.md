@@ -78,5 +78,10 @@ Yusur provides personalized, grounded answers with sources from trusted religiou
 - Integrate voice-based interface for hands-free access
 - Deploy chatbot on real-time platforms such as WhatsApp or web portals
 
-
+## 👩‍💻 Team Contributors
+- Batool Alqatari (Team Leader)  
+- Amnah Albrahim  
+- Lama AlHujaili  
+- Ghadeer Alsarrar  
+- Maryam Alshakhs 
 
