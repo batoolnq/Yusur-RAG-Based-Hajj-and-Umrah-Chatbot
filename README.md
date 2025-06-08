@@ -1,4 +1,4 @@
-# Yusur: Hajj and Umrah AI-Based Chatbot (يـُــســــر)
+# Yusur: RAG Based Hajj and Umrah Chatbot (يـُــســــر)
 
 ## 📌 Overview
 **Yusur** is a bilingual (Arabic and English) AI-powered chatbot designed to support millions of Hajj and Umrah pilgrims by offering real-time, accurate, and trusted guidance. This project contributes to Saudi Arabia's Vision 2030 by enhancing accessibility to religious, healthcare, legal, and cultural information using Large Language Models and Retrieval-Augmented Generation (RAG) technology.
